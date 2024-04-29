@@ -1,0 +1,28 @@
+body
+{
+    background-color: black;
+    font-family: sans-serif;
+    color:white;
+}
+
+.btn
+{
+    background-color: transparent;
+    color: white;
+    font-size: 30px;
+    border: none;
+    cursor: pointer;
+}
+.controls
+{
+    display: flex;
+    justify-content: center;   
+}
+.btn:hover
+{
+    color:rgb(0,255,106)
+}
+.current_song
+{
+    text-align: center;
+}
